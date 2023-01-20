@@ -1,0 +1,22 @@
+{
+  "name": "farewaystore2",
+  "version": "1.0.0",
+  "description": "Fareway Store new repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamlaBozkurt/Farewaystore2.git"
+  },
+  "author": "Damla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamlaBozkurt/Farewaystore2/issues"
+  },
+  "homepage": "https://github.com/DamlaBozkurt/Farewaystore2#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
